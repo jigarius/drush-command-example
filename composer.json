@@ -38,6 +38,7 @@
     "extra": {
         "drupal-scaffold": {
             "locations": {
+                "project-root": "./",
                 "web-root": "web/"
             }
         },
