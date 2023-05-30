@@ -1,0 +1,10 @@
+# Directories
+
+/web/
+/vendor/
+
+# Files
+
+/composer.lock
+/.editorconfig
+/.gitattributes
