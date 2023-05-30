@@ -25,7 +25,9 @@ class CustomHelloCommands extends DrushCommands {
    * @command custom:hello-human
    * @aliases chh
    * @option $informal Say "What up" instead of "Hello".
-   * @usage custom:hello-human John Jane Gene
+   * @usage custom:hello-human Anya
+   * @usage custom:hello-human --informal Jerry
+   * @usage custom:hello-human --verbose John Jane Gene
    */
   public function helloHuman(string $name, array $others): void {
     $names = array_merge([$name], $others);
