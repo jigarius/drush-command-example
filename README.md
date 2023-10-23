@@ -1,7 +1,8 @@
 # Example: Custom Drush Commands
 
-Demonstrates the creation of custom Drush commands. This repository was
-created for use with articles on [Jigarius.com](https://jigarius.com/).
+Demonstrates the creation of custom Drush commands. This repository is
+related to the article about [Site-wide Drush Commands](https://jigarius.com/blog/drush-site-wide-commands)
+on [Jigarius.com](https://jigarius.com/).
 
 ## Quick start
 
